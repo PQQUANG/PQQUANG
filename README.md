@@ -8,7 +8,7 @@
 
 <!-- Tech Stack -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,selenium,robotframework,katalon,cypress,jenkins,git,postman,jira,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,robotframework,katalon,cypress,jenkins,git,postman,jira,mysql,gherkin" />
 </p>
 
 <!-- Contact Info -->

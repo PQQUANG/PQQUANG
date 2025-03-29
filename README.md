@@ -28,30 +28,34 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/PQQUANG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PQQUANG&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PQQUANG&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quang's GitHub Stats" />
 </a>
 <a href="https://github.com/PQQUANG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PQQUANG&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PQQUANG&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 
 ### 📌 **Pinned Repositories**
 
+<a href="https://github.com/PQQUANG/Selenium> Selenium </a>
 <a href="https://github.com/PQQUANG/Katalon-Automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Katalon-Automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Katalon-Automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+  Katalon-Automation
 </a>    
 
 <a href="https://github.com/PQQUANG/Robot-Framework-Tests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Robot-Framework-Tests&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Robot-Framework-Tests&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+  Robot-Framework
 </a>
 
 <a href="https://github.com/PQQUANG/Playwright-Testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Playwright-Testing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Playwright-Testing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+  Playwright-Testing
 </a>    
 
-<a href="https://github.com/PQQUANG/Automation-CI-CD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Automation-CI-CD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/PQQUANG/Cypress">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PQQUANG&repo=Automation-CI-CD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+  Cypress
 </a>
----
 
 ## 💻 My Tech Stack  
 <table align="center">
@@ -81,7 +85,7 @@
   </td>
 </tr>
 </table>
----
+
 ## 🎓 Certifications  
 
 <table align="center">
@@ -114,8 +118,6 @@
 </tr>
 </table>
 
----
-
 ## 🚀 My Journey  
 
 <table align="center">
@@ -146,6 +148,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
 </div>
----
 
 <p align="center">Thanks for visiting my profile! 🚀 Let’s build something amazing together! 💻</p>

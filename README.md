@@ -3,8 +3,8 @@
   <img src="YOUR_BANNER_IMAGE_URL" alt="Profile Banner">
 </p>
 
-<h1 align="center">🚀 Automation Tester | QA Engineer</h1>
-<h3 align="center">Ensuring quality through test automation & CI/CD</h3>
+<h1 align="center">QuangPV | Automation Tester | QA Engineer</h1>
+<h3 align="center">Ensuring quality through test automation</h3>
 
 <!-- Tech Stack -->
 <p align="center">
@@ -30,7 +30,6 @@
 ---
 
 ## 📖 Latest Blog Posts  
-- [🚀 Level Up Your GitHub Profile](#)  
 - [📌 How to Get Started with Automation Testing](#)  
 - [🔍 Best Practices for API Testing](#)  
 

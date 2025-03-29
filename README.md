@@ -1,57 +1,51 @@
-# 👋 Hi, I'm Phan Van Quang
+<!-- Banner Section -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Profile Banner">
+</p>
 
-## 🚀 About Me
-I am an **Automation Tester** with a strong foundation in both **manual and automation testing**. My goal is to become a **Test Leader** within the next two years, leveraging my experience in various projects and global companies to enhance software quality. Passionate about **technology, automation, and continuous learning**, I strive to deliver exceptional products that drive business success.
+<h1 align="center">🚀 Automation Tester | QA Engineer</h1>
+<h3 align="center">Ensuring quality through test automation & CI/CD</h3>
 
----
+<!-- Tech Stack -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,robotframework,katalon,cypress,jenkins,git,postman,jira,mysql" />
+</p>
 
-## 💼 Experience
-
-### 🔹 Quality Assurance Automation Engineer | TMA Solutions (Jun 2021 - Present)
-- **Manage Resource Web Application**
-  - Developed **automated and manual test scripts** to ensure high-quality performance.
-  - Conducted **performance testing** to validate system scalability.
-  - Utilized **Katalon Studio, Java/Groovy, Jenkins, and JMeter**.
-
-- **Data Analytics Web Application**
-  - Executed **manual and regression testing**.
-  - Developed an **automation testing framework** using **Robot Framework**.
-
-- **K-BANK (KBTG-AUTO)**
-  - Designed **test scenarios, test data, and automation scripts** for banking transactions.
-  - Worked with **Robot Framework, Selenium, Python, Jenkins, Jira, and Oracle DB**.
-
-- **Payment Website**
-  - Automated **UI and API testing** with **Cypress (TypeScript) and Postman**.
-  - Defined **test strategies, test cases, and bug reporting**.
+<!-- Contact Info -->
+<p align="center">
+  <a href="https://linkedin.com/in/phanvanquang05032000"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:phanvanquang0503@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/phanvanquang0503"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠 Technical Skills
-- **Test Automation:** Robot Framework, Katalon Studio, Selenium, Cypress  
-- **Programming:** Python, Java/Groovy, TypeScript  
-- **CI/CD & Tools:** Jenkins, Git, GitLab, Jira, Confluence, Bitbucket  
-- **API Testing:** Postman, Katalon Studio  
-- **Performance Testing:** JMeter  
-- **Databases:** MySQL, Oracle, SQL Server  
-- **Agile & Testing Methodologies:** Agile/Scrum, STLC, Bug Life Cycle  
+## 📌 About Me  
+- 💼 **Automation Tester** with expertise in **manual & automated testing**  
+- 🔍 Skilled in **Selenium, Robot Framework, Katalon, Cypress, API Testing, and Jenkins**  
+- 🚀 Passionate about **CI/CD, test automation, and quality assurance**  
+- 🎯 Goal: **Become a Test Leader in the next 2 years**  
+- 📖 Learning: **Advanced CI/CD, Playwright, AI in testing**  
 
 ---
 
-## 📜 Certifications
-- **ISTQB® Certified Tester - Foundation Level (Sep 12, 2022)**  
+## 📖 Latest Blog Posts  
+- [🚀 Level Up Your GitHub Profile](#)  
+- [📌 How to Get Started with Automation Testing](#)  
+- [🔍 Best Practices for API Testing](#)  
 
 ---
 
-## 🌍 Connect with Me  
-- 📧 Email: phanvanquang0503@gmail.com  
-- 📍 Location: Ho Chi Minh City, Vietnam  
-- 🔗 [LinkedIn](https://linkedin.com/in/phanvanquang05032000)  
-- 🏠 [GitHub](https://github.com/phanvanquang0503)  
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phanvanquang0503&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phanvanquang0503&theme=radical" />
+</p>
 
 ---
 
-⚡ *Always open to new opportunities, learning, and collaboration!*  
+🎯 **Always open to collaboration & learning!** 🚀  
+
 
 <!---
 PQQUANG/PQQUANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

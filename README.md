@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/badge/-ISTQB-blue?style=for-the-badge&logo=istqb&logoColor=white" alt="ISTQB"/>
   </td>
   <td align="center">
-    <img src="https://img.shields.io/badge/-2025-green?style=for-the-badge" alt="Year 2022"/>
+    <img src="https://img.shields.io/badge/-2022-green?style=for-the-badge" alt="Year 2022"/>
   </td>
 </tr>
 <tr>
